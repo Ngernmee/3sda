@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/raw", "destination": "/", "permanent": false },
+    { "source": "/dump", "destination": "/", "permanent": false }
+  ]
+}
